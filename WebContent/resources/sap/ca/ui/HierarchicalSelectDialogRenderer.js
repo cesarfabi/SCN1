@@ -1,1 +1,0 @@
-jQuery.sap.declare("sap.ca.ui.HierarchicalSelectDialogRenderer");jQuery.sap.require("sap.m.DialogRenderer");sap.ca.ui.HierarchicalSelectDialogRenderer=sap.ui.core.Renderer.extend(sap.m.DialogRenderer);

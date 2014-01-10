@@ -1,7 +1,0 @@
-{
-  "sEntity": "Library",
-  "sId": "sap/ui/ux3",
-  "sLabel": "UX3",
-  "sVendor": "SAP",
-  "oExtends": "UI5.sap/ui/core"
-}
